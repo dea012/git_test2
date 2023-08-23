@@ -1,1 +1,3 @@
-Adding practice text for staging 
+Adding practice text for staging
+Adding a second line of text using nano shortcut to test memory and git 
+commit memeory 
